@@ -1,0 +1,15 @@
+﻿  coe2rv.c
+  formation_design_total.c
+D:\项目\501xxxx半物理仿真系统+数字仿真系统+任务规划\联调代码\第一版\北航\formation_design_v2\formation_design\formation_design\formation_design_total.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  formation_design_total_emxutil.c
+  formation_design_total_initialize.c
+  formation_design_total_rtwutil.c
+  formation_design_total_terminate.c
+  propagate_formation.c
+D:\项目\501xxxx半物理仿真系统+数字仿真系统+任务规划\联调代码\第一版\北航\formation_design_v2\formation_design\formation_design\propagate_formation.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rtGetInf.c
+  rtGetNaN.c
+  rt_nonfinite.c
+  正在生成代码...
+    正在创建库 D:\项目\501xxxx半物理仿真系统+数字仿真系统+任务规划\联调代码\第一版\北航\formation_design_v2\formation_design\x64\Debug\formation_design.lib 和对象 D:\项目\501xxxx半物理仿真系统+数字仿真系统+任务规划\联调代码\第一版\北航\formation_design_v2\formation_design\x64\Debug\formation_design.exp
+  formation_design.vcxproj -> D:\项目\501xxxx半物理仿真系统+数字仿真系统+任务规划\联调代码\第一版\北航\formation_design_v2\formation_design\x64\Debug\formation_design.dll
